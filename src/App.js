@@ -10,7 +10,7 @@ import "./App.css";
 function App() {
   return (
     <GlobalProvider>
-      <Header text="Hisaab Kitaab" />
+      <Header text="Hysaab Kitaab" />
       <div className="container">
         <Balance />
         <IncomeExpense />
